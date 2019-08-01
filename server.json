@@ -1,0 +1,96 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    },
+    {
+      "id": 7,
+      "amount": 1
+    },
+    {
+      "id": 8,
+      "amount": 4
+    },
+    {
+      "id": 9,
+      "amount": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 7,
+      "title": "Tênis Nike Nightgazer Masculino",
+      "price": 199.9,
+      "image": "https://static.netshoes.com.br/produtos/tenis-nike-nightgazer-masculino/26/D12-3139-026/D12-3139-026_zoom1.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Tênis Nike Downshifter 9 Masculino",
+      "price": 169.9,
+      "image": "https://static.netshoes.com.br/produtos/tenis-nike-downshifter-9-masculino/05/HZM-1276-405/HZM-1276-405_zoom1.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Tênis Adidas HOMEM ORIGINALS NMD_R1",
+      "price": 599.9,
+      "image": "https://assets.adidas.com/images/w_840,h_840,f_auto,q_auto:sensitive,fl_lossy/29ef90c69b694d7c88bfa9de011f0f82_9366/Tenis_NMD_R1_Preto_BD7754_01_standard.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Tênis de Caminhada Leve Confortável",
+      "price": 179.9,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
+      "price": 139.9,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Tênis Adidas Duramo Lite 2.0",
+      "price": 219.9,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
+      "price": 139.9,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Tênis Adidas Duramo Lite 3.0",
+      "price": 219.9,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Tênis de Caminhada Leve",
+      "price": 179.9,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+    }
+  ]
+}
