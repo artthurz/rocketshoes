@@ -16,20 +16,20 @@ export const ProductList = styled.ul`
 
     img {
       align-self: center;
-      max-width: 280px;
+      max-width: 180px;
     }
 
     > strong {
-      font-size: 16px;
+      font-size: 13px;
       line-height: 20px;
       color: #333;
       margin-top: 5px;
     }
 
     > span {
-      font-size: 21px;
+      font-size: 18px;
       font-weight: bold;
-      margin: 5px 0 20px;
+      margin: 5px 0 15px;
     }
 
     button {
